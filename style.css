@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    text-align: center;
+    padding: 30px;
+}
+
+button {
+    padding: 12px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.user-card {
+    background: white;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px #ddd;
+}
